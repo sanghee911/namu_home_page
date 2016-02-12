@@ -1,0 +1,507 @@
+/*************** Reset CSS ***************/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  /*vertical-align: baseline;*/
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+body {
+  line-height: 1.5;
+  font-size: 1em;
+  font-family: "メイリオ",Meiryo,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック",sans-serif;
+  /*background-color: #eee;*/
+}
+/*************** Reset font sizes ***************/
+h1 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h3 { 
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h4 { 
+    display: block;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h5 { 
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h6 { 
+    display: block;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+p {
+  text-align: justify;
+}
+/*************** end reset font sizes ***************/
+/*************** custom class ***************/
+.vertical-middle {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+hr.light {
+    border-color: #fff;
+}
+.thumbnail {
+  border: 1px solid #ccc;
+  -moz-transition: none;
+  -webkit-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+.thumbnail:hover {
+  border: 1px solid #428BCA;
+}
+.bg-primary {
+    background-color: #47AA42;
+}
+.bg-dark {
+    color: #fff;
+    background-color: #222;
+}
+.bg-gray {
+  background-color: #eee;
+}
+.text-faded {
+    color: rgba(255,255,255,.7);
+}
+.text-gray {
+    color: #878787  ;
+}
+.margin-top-bottom-50 {
+  margin: 50px 0;
+}
+.margin-top-50 {
+  margin-top: 50px;
+}
+.margin-bottom-50 {
+  margin-bottom: 50px;
+}
+.padding-top-bottom-25 {
+  padding: 25px 0;
+}
+.padding-left-15 {
+  padding-left: 15px;
+}
+.margin-bottom-0 {
+  margin-bottom: 0;
+}
+.no-padding {
+    padding: 0;
+}
+.text-bold {
+  font-weight: bold;
+}
+.text-justify {
+  text-align: justify;
+}
+.caption p {
+  font-size: 14px;
+}
+.caption-big p {
+  font-size: 1em;
+}
+.icon-box {
+  background-color: white;
+  position: relative;
+}
+.icon-line, .icon-pane {
+  background-color: white;
+}
+.icon-pane {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0
+}
+.icon-box:hover .icon-pane {
+  opacity: 1;
+}
+.inner-row {
+  border-bottom: 1px solid #ccc;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.inner-row p {
+  margin: 0;
+}
+.font-size-30 {
+  font-size: 35px;
+}
+.margin-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+/*************** general decoration ***************/
+/*a {
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}*/
+a:hover,
+a:focus {
+    color: #13A9E0;
+}
+p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+#fusion-io ul {
+  /*list-style-position: inside;*/
+
+}
+ul.level-1 {
+  list-style-type: square;
+  /*list-style-position: inside;*/
+  font-size: 14px;
+  padding-left: 15px;
+}
+ul.level-2 {
+  list-style-type: circle;
+  margin-left: 1em;
+}
+ul[class*="level-"] li {
+  margin-bottom: 5px;
+}
+ul[class*="level-"] li:nth-child(1) {
+  margin-top: 5px;
+}
+section {
+    padding: 50px 0;
+}
+#services {
+    background: #f5f3f3;
+}
+aside {
+    padding: 50px 0;
+}
+/*************** navigation ***************/
+.navbar-default {
+    border-color: rgba(34,34,34,.05);
+    background-color: #fff;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+.navbar-default .navbar-header .navbar-brand {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #47AA42;
+}
+.navbar-default .navbar-header .navbar-brand:hover,
+.navbar-default .navbar-header .navbar-brand:focus {
+    color: #eb3812;
+}
+.navbar-default .nav > li>a,
+.navbar-default .nav>li>a:focus {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    /*color: #222;*/
+    color: white;
+}
+.navbar-default .nav > li>a:hover,
+.navbar-default .nav>li>a:focus:hover {
+    color: #47AA42;
+}
+.navbar-default .nav > li.active>a,
+.navbar-default .nav>li.active>a:focus {
+    color: #47AA42!important;
+    background-color: transparent;
+}
+.navbar-default .nav > li.active>a:hover,
+.navbar-default .nav>li.active>a:focus:hover {
+    background-color: transparent;
+}
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+.nav-tabs, .nav-pills {
+    text-align:center;
+}
+.nav>li>a {
+  padding: 15px 15px;
+}
+/*navbar not collapsed*/
+@media(min-width:1100px) {
+    .navbar-default {
+        border-color: rgba(255,255,255,.3);
+        background-color: transparent;
+    }
+    .navbar-default .navbar-header .navbar-brand {
+        color: rgba(255,255,255,.7);
+    }
+    .navbar-default .navbar-header .navbar-brand:hover,
+    .navbar-default .navbar-header .navbar-brand:focus {
+        color: #fff;
+    }
+    .navbar-default .nav > li>a,
+    .navbar-default .nav>li>a:focus {
+        color: rgba(255,255,255,.7);
+    }
+    .navbar-default .nav > li>a:hover,
+    .navbar-default .nav>li>a:focus:hover {
+        color: #fff;
+    }
+    .navbar-default.affix {
+        border-color: rgba(34,34,34,.05);
+        background-color: #eee;
+    }
+    .navbar-default.affix .navbar-header .navbar-brand {
+        font-size: 14px;
+        color: #000;
+    }
+    .navbar-default.affix .navbar-header .navbar-brand:hover,
+    .navbar-default.affix .navbar-header .navbar-brand:focus {
+        color: #eb3812;
+    }
+    .navbar-default.affix .nav > li>a,
+    .navbar-default.affix .nav>li>a:focus {
+        color: #222;
+    }
+    .navbar-default.affix .nav > li>a:hover,
+    .navbar-default.affix .nav>li>a:focus:hover {
+        color: #47AA42;
+    }
+}
+/*navbar collpased ### added to change break point from 768 to 1100*/
+@media (max-width: 1100px) {
+  #mainNav {
+    overflow-y: scroll;
+    /*background-color: #f5f5f5;*/
+    background-color: black;
+  }
+  .navbar-header {
+    float: none;
+    background-color: white;
+  }
+  .navbar-left,.navbar-right {
+    float: none !important;
+  }
+  .navbar-toggle {
+    display: block;
+  }
+  .navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    max-height: none;
+  }
+  .navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  .navbar-collapse.collapse {
+    display: none!important;
+  }
+  .navbar-nav {
+    float: none!important;
+    margin-top: 7.5px;
+  }
+  .navbar-nav>li {
+    float: none;
+  }
+  .navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .nav>li>a {
+    padding: 5px 15px;
+  }
+  .collapse.in{
+    display:block !important;
+  }
+}
+/*************** end navigation ***************/
+/*************** carousel ***************/
+.carousel-caption h1 {
+  font-size: 40px;  
+}
+.carousel-inner img {
+  width: 100%; /* make full image for carousel */
+}
+.carousel-control {
+    background-image: none !important; /* remove background gradients on controls */
+}
+.carousel-indicators li {
+  background-color: #669966;
+}
+.carousel-indicators .active {
+  background-color: #FF7600;
+}
+
+.section-header {
+  font-size: 30px;
+  padding: 15px;
+  /*line-height: 80px;*/
+  font-weight: 700;
+  /*margin-bottom: 50px;*/
+  margin: 15px 0px 20px 0px;
+  border: 1px solid #428BCA;
+  border-radius: 4px;
+}
+.section-header > div {
+  position: relative;
+  /*height: 80px;*/
+}
+.section-header img {
+  display: block;
+  position: relative;
+/*  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);*/
+}
+/************************* section #workstations *************************/
+#workstations h5 {
+  margin-top: 0;
+}
+#compllent p {
+    font-size: 0.8em;
+}
+/************************* footer *************************/
+.footer {
+  width: 100%;
+  background: #000000 url(../img/footerbg_pattern.png);
+  margin: 30px 0 0;
+  color: #979e97;
+}
+.footer .container .content_block {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.footer .container .links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.footer .container .links a {
+  font-size: 14px;
+  text-decoration: none;
+}
+.footer .container .links a:hover{
+  color: #fff;
+}
+.footer .legal {
+  width: 100%;
+  background: black;
+  line-height: 40px;
+  text-align: center;
+  font-size: 12px;
+}
+.footer hr {
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-color: #979e97;
+}
+/************************* media queries *************************/
+@media (max-width:768px) {
+    #myCarousel {
+        display:none !important;
+    }
+    .page-header {
+      padding-top: 50px;
+    }
+    .footer .legal {
+      font-size: 12px;
+      line-height: 30px;
+    }
+
+
+}
+@media (max-width:991px) {
+  .section-header {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+@media (min-width:992px) {
+  .section-header img {
+    display: inline-block;
+    position: relative;
+/*    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);*/
+  }
+}

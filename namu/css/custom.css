@@ -1,0 +1,657 @@
+/*************** Reset CSS ***************/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 0.9em;
+}
+
+/*************** base ***************/
+html,
+body {
+    line-height: 1.5;
+    width: 100%;
+    height: 100%;
+    font-family: "メイリオ",Meiryo,"ヒラギノ角ゴ Pro W3",  Helvetica, "Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック",sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-size: 23px;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+strong {
+    font-weight: 700;
+}
+
+hr {
+    padding: 0;
+    margin: 0;
+    border-color: #c8c8c8;
+}
+
+hr.short {
+    max-width: 50px;
+    border-color: #47AA42;
+    border-width: 3px;
+}
+
+hr.light {
+    border-color: #fff;
+}
+
+img, a {
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+a:hover,
+a:focus {
+    color: #13A9E0;
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+section h3 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.bg-primary {
+    background-color: #47AA42;
+}
+
+.bg-skyblue {
+    background-color: #E1F1EC;
+}
+
+.bg-green {
+    background-color: #C8F7C5;
+}
+
+.bg-lightgreen {
+    background-color: #E1F7DF;
+}
+
+.bg-red {
+    background-color: #E83144;
+}
+
+.bg-dark {
+    color: #fff;
+    background-color: #222;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.bg-gray {
+    background-color: #F2F2F2;
+}
+
+.bg-pink {
+    background-color: #FDE3A7;
+}
+
+.text-red {
+    color: #E83144;
+}
+
+.text-faded {
+    color: rgba(255, 255, 255, .7);
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.bordered-top {
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #c8c8c8;
+}
+
+.underline {
+    border-bottom: 1px solid #c8c8c8;
+}
+
+section {
+    padding: 100px 0;
+}
+
+aside {
+    padding: 50px 0;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.call-to-action h2 {
+    margin: 0 auto 20px;
+}
+
+.no-gutter > [class*=col-] {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.top-buffer {
+    padding-top: 20px;
+}
+
+.btn-default {
+    border-color: #fff;
+    color: #222;
+    background-color: #fff;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default.focus,
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+    border-color: #ededed;
+    color: #222;
+    background-color: #f2f2f2;
+}
+
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+    background-image: none;
+}
+
+.btn-default.disabled,
+.btn-default[disabled],
+fieldset[disabled] .btn-default,
+.btn-default.disabled:hover,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default:hover,
+.btn-default.disabled:focus,
+.btn-default[disabled]:focus,
+fieldset[disabled] .btn-default:focus,
+.btn-default.disabled.focus,
+.btn-default[disabled].focus,
+fieldset[disabled] .btn-default.focus,
+.btn-default.disabled:active,
+.btn-default[disabled]:active,
+fieldset[disabled] .btn-default:active,
+.btn-default.disabled.active,
+.btn-default[disabled].active,
+fieldset[disabled] .btn-default.active {
+    border-color: #fff;
+    background-color: #fff;
+}
+
+.btn-default .badge {
+    color: #fff;
+    background-color: #222;
+}
+
+.btn-primary {
+    border-color: #47AA42;
+    color: #fff;
+    background-color: #47AA42;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+    border-color: #ed431f;
+    color: #fff;
+    background-color: #13A9E0;
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+    background-image: none;
+}
+
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled].focus,
+fieldset[disabled] .btn-primary.focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+    border-color: #47AA42;
+    background-color: #47AA42;
+}
+
+.btn-primary .badge {
+    color: #47AA42;
+    background-color: #fff;
+}
+
+.btn {
+    border: 0;
+    border-radius: 300px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.btn-xl {
+    padding: 15px 30px;
+}
+
+::-moz-selection {
+    text-shadow: none;
+    color: #fff;
+    background: #222;
+}
+
+::selection {
+    text-shadow: none;
+    color: #fff;
+    background: #222;
+}
+
+img::selection {
+    color: #fff;
+    background: 0 0;
+}
+
+img::-moz-selection {
+    color: #fff;
+    background: 0 0;
+}
+
+.credit {
+    font-size: 14px;
+}
+
+.white {
+    color: white;
+}
+
+.btn-scroll {
+    margin-top: 50px;
+}
+
+/*************** navigation ***************/
+.navbar-default {
+    border-color: rgba(34, 34, 34, .05);
+    background-color: #fff;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+.navbar-default img {
+    max-height: 24px;
+}
+
+.navbar-default .navbar-header .navbar-brand {
+    padding: 10px 15px;
+}
+
+.navbar-default .navbar-header .navbar-brand:hover,
+.navbar-default .navbar-header .navbar-brand:focus {
+    color: #eb3812;
+}
+
+.navbar-default .nav > li > a,
+.navbar-default .nav > li > a:focus {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    color: #222;
+}
+
+.navbar-default .nav > li > a:hover,
+.navbar-default .nav > li > a:focus:hover {
+    color: #47AA42;
+}
+
+.navbar-default .nav > li.active > a,
+.navbar-default .nav > li.active > a:focus {
+    color: #47AA42 !important;
+    background-color: transparent;
+}
+
+.navbar-default .nav > li.active > a:hover,
+.navbar-default .nav > li.active > a:focus:hover {
+    background-color: transparent;
+}
+
+/*************** header ***************/
+header {
+    position: fixed;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+}
+
+header .header-content {
+    position: relative;
+    width: 100%;
+    padding: 100px 15px;
+    text-align: center;
+}
+
+header .header-content img {
+    width: 55%;
+}
+
+header .header-content .header-content-inner {
+    padding: 20px;
+    background: rgba(225, 91, 73, 0.9);
+    border-radius: 40px;
+}
+
+.cram {
+    padding-bottom: 60%;
+}
+
+/*************** section #company-info ***************/
+#company-info {
+    border-top: 3px solid #ccc;
+}
+
+#company-info .table-bordered {
+    font-size: 0.9em;
+}
+
+#company-info .table-bordered > tbody > tr > td,
+#company-info .table-bordered > tbody > tr > th,
+#company-info .table-bordered > tfoot > tr > td,
+#company-info .table-bordered > tfoot > tr > th,
+#company-info .table-bordered > thead > tr > td,
+#company-info .table-bordered > thead > tr > th {
+    border: 1px solid #000;
+    vertical-align: middle;
+}
+
+#company-work .table > tbody > tr > td,
+#company-work .table > tbody > tr > th,
+#company-work .table > tfoot > tr > td,
+#company-work .table > tfoot > tr > th,
+#company-work .table > thead > tr > td,
+#company-work .table > thead > tr > th {
+    vertical-align: middle;
+}
+
+/*************** section #greeting ***************/
+.ceo #greeting {
+    padding-bottom: 30px;
+}
+
+#greeting img {
+    padding-top: 20px;
+}
+
+/*************** section #vision ***************/
+#vision img {
+    margin: 0 auto;
+}
+
+/*************** section #company-history ***************/
+#company-history .no-border {
+    border: 0;
+}
+
+#division-chart .solid-fire-contact {
+    padding: 10px;
+    border: 1px solid #cccccc;
+    background-color: white;
+}
+/*************** section #map ***************/
+#google-map {
+    width: 100%;
+    height: 400px;
+}
+
+/************************* footer *************************/
+.footer {
+    width: 100%;
+    background: #E83144;
+    color: #fff;
+    /*margin: 30px 0 0;*/
+}
+
+.footer a {
+    color: #fff;
+}
+
+.footer .container .content_block {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer .container .blog p {
+    font-size: 14px;
+    display: inline;
+}
+
+.footer .container .links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer .container .links a {
+    font-size: 14px;
+}
+
+.footer .container .links a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.footer .legal {
+    color: #000;
+    width: 100%;
+    background: #fff;
+    line-height: 40px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.footer hr {
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: #fff;
+}
+
+/*************** media queries ***************/
+/*anything below 768px*/
+@media (max-width: 768px) {
+    header {
+        display: none;
+    }
+
+    .cram {
+        display: none;
+    }
+
+    .page-header {
+        padding-top: 50px;
+    }
+
+    .footer .legal {
+        font-size: 12px;
+        line-height: 30px;
+    }
+}
+
+/*anything over 768px*/
+@media (min-width: 768px) {
+    .navbar-default {
+        border-color: rgba(255, 255, 255, .3);
+        background-color: transparent;
+    }
+
+    .navbar-default .navbar-header .navbar-brand {
+        color: rgba(255, 255, 255, .7);
+    }
+
+    .navbar-default .navbar-header .navbar-brand:hover,
+    .navbar-default .navbar-header .navbar-brand:focus {
+        color: #fff;
+    }
+
+    .navbar-default .nav > li > a,
+    .navbar-default .nav > li > a:focus {
+        color: rgba(200, 200, 200, .7);
+    }
+
+    .navbar-default .nav > li > a:hover,
+    .navbar-default .nav > li > a:focus:hover {
+        color: #7ECEFD;
+    }
+
+    .navbar-default.affix {
+        border-color: rgba(34, 34, 34, .05);
+        background-color: #fff;
+    }
+
+    .navbar-default.affix .navbar-header .navbar-brand {
+        padding: 15px 15px;
+    }
+
+    .navbar-default.affix .navbar-header .navbar-brand:hover,
+    .navbar-default.affix .navbar-header .navbar-brand:focus {
+        color: #eb3812;
+    }
+
+    .navbar-default.affix .nav > li > a,
+    .navbar-default.affix .nav > li > a:focus {
+        color: #222;
+    }
+
+    .navbar-default.affix .nav > li > a:hover,
+    .navbar-default.affix .nav > li > a:focus:hover {
+        color: #47AA42;
+    }
+
+    .navbar-default.affix img {
+        max-height: 20px;
+    }
+
+    header {
+        min-height: 100%;
+    }
+
+    header .header-content {
+        position: absolute;
+        top: 50%;
+        padding: 0 50px;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    header .header-content .header-content-inner {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 1000px;
+    }
+
+    header .header-content .header-content-inner p {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 80%;
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .alt-table-responsive {
+        width: 100%;
+        margin-bottom: 15px;
+        overflow-y: hidden;
+        overflow-x: auto;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #dddddd;
+        -webkit-overflow-scrolling: touch;
+    }
+}
