@@ -103,7 +103,7 @@
                 <div class="col-md-12">
                     <h2>NCC (Namu Cloud Center)</h2>
                     <h3 class="text-primary">Namu Cloud Centerとは?</h3>
-                    <img src="img/ncc_1.png" class="img-responsive ncc-main" alt=""/>
+                    <img src="img/ncc_1_jp.png" class="img-responsive ncc-main" alt=""/>
                 </div>
             </div>
         </div>
