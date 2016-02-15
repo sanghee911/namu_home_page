@@ -873,7 +873,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12">
-                    <p class="text-bold text-danger">製品に関するお問い合わせfio@namutech.co.kr</p>
+                    <p class="text-bold text-danger">製品に関するお問い合わせはsupport@namutech.co.jpへ</p>
                 </div>
             </div>
         </div><!-- end container -->

@@ -414,7 +414,7 @@
                 <div class="col-sm-8 col-sm-offset-2">
                     <br/><br/>
                     <div class="solid-fire-contact">
-                        <h3 class="text-danger">SolideFire販売お問い合わせ</h3>
+                        <h3 class="text-danger">製品販売及びサービス関連各種お問い合わせ</h3>
                         <span class="text-bold text-primary">NAMU TECH JAPAN Jongsuk Noh理事</span><br/>
                         T.03-6272-4788<br/>
                         C.080-5173-2277
