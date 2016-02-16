@@ -2,14 +2,17 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <title>NAMU TECH JAPAN | Virtualization</title>
+    <meta name="TITLE" content="NAMU TECH JAPAN | Virtualization" />
+    <meta name="description" content="Official NAMU TECH JAPAN site covering enterprise server systems and technology related products they manufacture, support and sell.">
+    <meta property="og:title" content="NAMU TECH JAPAN | Virtualization" />
+    <meta name="KEYWORDS" content="NAMU TECH" />
+    <meta name="author" content="Sanghee Lee">
+    <meta name="og:url" content="http://namutech.co.jp/virtualization/virtualization.php" />
 
-    <title>Namu Tech</title>
     <link rel="icon" type="image/png" href="../img/favicon_black.png">
 
     <!-- Bootstrap Core CSS -->
@@ -112,7 +115,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7">
-                    <h2>Citrix 데스크탑 가상화 (XenDesktop)</h2>
+                    <h2>Citrixデスクトップ仮想化（XenDesktop）</h2>
                     <h3 class="text-primary">仮想デスクトップシステムの概要</h3>
                     <p>仮想デスクトップ・システムは、高性能サーバにユーザー固有の独立OSの仮想デスクトップ＆サーバー環境を用意して、さまざまなクライアントにいつでもどこでも、個人の業務及び社内サーバーインフラストラクチャ環境に接続することができるようにするコンピューティング環境です。</p>
                     <img src="img/product_solutionsup_1_1.png" class="img-responsive" id="image-1" alt="">

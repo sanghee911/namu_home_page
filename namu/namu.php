@@ -2,14 +2,17 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <title>NAMU TECH JAPAN | Company Information</title>
+    <meta name="TITLE" content="NAMU TECH JAPAN | Company Information" />
+    <meta name="description" content="Official NAMU TECH JAPAN site covering enterprise server systems and technology related products they manufacture, support and sell.">
+    <meta property="og:title" content="NAMU TECH JAPAN | Company Information" />
+    <meta name="KEYWORDS" content="NAMU TECH" />
+    <meta name="author" content="Sanghee Lee">
+    <meta name="og:url" content="http://namutech.co.jp/namu/namu.php" />
 
-    <title>Namu Tech Japan</title>
     <link rel="icon" type="image/png" href="img/favicon_black.png">
 
     <!-- Bootstrap Core CSS -->
