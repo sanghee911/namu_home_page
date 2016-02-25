@@ -222,7 +222,7 @@
                         <div class="caption">
                             <h3 class="text-center">Tower Server</h3>
                             <p>価値、柔軟性、さまざまなパフォーマンスオプションを必要とする企業</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">View Tower Servers</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/poweredge-tower-servers?~ck=anav" class="btn btn-primary center-block" role="button">View Tower Servers</a></p>
                         </div>
                     </div>
                 </div>
@@ -232,7 +232,7 @@
                         <div class="caption">
                             <h3 class="text-center">Rack Server</h3>
                             <p>サーバーのための物理的な空間と収納スペースが限られた企業</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">View Rack Servers</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/poweredge-rack-servers?~ck=anav" class="btn btn-primary center-block" role="button">View Rack Servers</a></p>
                         </div>
                     </div>
                 </div>
@@ -242,7 +242,7 @@
                         <div class="caption">
                             <h3 class="text-center">Blade Server</h3>
                             <p>非常に強烈で、高密度コンピューティング・ソリューション - ITインフラ全体の効率を改善するのに役立ちます</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">View Blade Servers</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/poweredge-blade-servers" class="btn btn-primary center-block" role="button">View Blade Servers</a></p>
                         </div>
                     </div>
                 </div>
@@ -254,7 +254,7 @@
                         <div class="caption">
                             <h3 class="text-center">Shared Infra</h3>
                             <p>優れた拡張性を考慮した性能と効率性を必要とする企業</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">View Shared Infra</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/in/business/p/shared-infrastructure-platforms" class="btn btn-primary center-block" role="button">View Shared Infra</a></p>
                         </div>
                     </div>
                 </div>
@@ -264,7 +264,7 @@
                         <div class="caption">
                             <h3 class="text-center">PowerEdge C Series</h3>
                             <p>価値、柔軟性、さまざまなパフォーマンスオプションを必要とする企業</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">View PowerEdge C Series</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/poweredge-cloud-servers?~ck=anav" class="btn btn-primary center-block" role="button">View PowerEdge C Series</a></p>
                         </div>
                     </div>
                 </div>
@@ -311,7 +311,7 @@
                         <div class="caption">
                             <h3 class="text-center">EqualLogic PS4100</h3>
                             <p>拡大する環境のために設計された次世代のGbE iSCSI SANアレイ</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/equallogic-ps4100-series" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -321,7 +321,7 @@
                         <div class="caption">
                             <h3 class="text-center">EqualLogic PS6100</h3>
                             <p>エンタープライズ環境のための多機能GbE iSCSI SANアレイの設計</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/equallogic-ps6100-series" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                     </div>
                     </div>
                 </div>
@@ -333,7 +333,7 @@
                         <div class="caption">
                             <h3 class="text-center">Equallogic PS4110</h3>
                             <p>拡大する環境のために設計された次世代の10GbE iSCSI SANアレイ</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/equallogic-ps4110e/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -343,7 +343,7 @@
                         <div class="caption">
                             <h3 class="text-center">Equallogic PS6110</h3>
                             <p>エンタープライズ環境のための様々な10GbE iSCSI SANアレイの設計</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/equallogic-ps6110s/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -353,7 +353,7 @@
                         <div class="caption">
                             <h3 class="text-center">EqualLogic PS6210</h3>
                             <p>さまざまな環境の仮想化プラットフォームのために最適化されており、管理が便利なエンタープライズクラスのストレージアレイを希望する企業に適しています。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/equallogic-ps6210-series/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -470,7 +470,7 @@
                         <div class="caption">
                             <h3 class="text-center">Dell Compellent SC8000</h3>
                             <p>次世代のDell Compellent SC8000ストレージセンターコントローラを使用してストレージのパフォーマンス、効率性、および拡張性を向上させます。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/dell-compellent-sc8000/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -480,7 +480,7 @@
                         <div class="caption">
                             <h3 class="text-center">PowerVault MD3ファイバチャネルストレージアレイシリーズ</h3>
                             <p>最新の16Gbファイバーチャネル技術を内蔵し、高速処理が可能な高効率ファイバチャネルストレージをデータセンターに追加してください。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/learn/us/en/04/campaigns/powervaultmd3" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -490,7 +490,7 @@
                         <div class="caption">
                             <h3 class="text-center">Dell Compellent SC280集積型ケース</h3>
                             <p>同種業界のすべての主要なストレージ・ベンダーで最も集積度の高い収納ケースを介して、より多くのデータをより少ないスペースに保存します。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/dell-compellent-sc280/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -502,7 +502,7 @@
                         <div class="caption">
                             <h3 class="text-center">Dell Compellentフラッシュ最適化ソリューション</h3>
                             <p>競争上の優位性のハイブリッドフラッシュソリューションよりも最大2倍の価格が安くて、他のすべてのフラッシュソリューションよりも最大5倍の価格が安い</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/dell-compellent-flash-optimized/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -512,7 +512,7 @@
                         <div class="caption">
                             <h3 class="text-center">Dell Compellent SC200/SC220拡張ケース</h3>
                             <p>柔軟かつエネルギー効率の高い次世代のSC200とSC220拡張エンクロージャにDell Compellentストレージセンターの容量を拡張することができます。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/dell-compellent-sc200/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -608,7 +608,7 @@
                         <div class="caption">
                             <h3 class="text-center">Precision T1700</h3>
                             <p>デスクトップと同様の価格で、ワークステーションのパフォーマンスを体験することができますDell Precision™T1700は、すべての環境に適した二つのコンパクトなサイズを提供しています。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/precision-t1700-workstation/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -618,7 +618,7 @@
                         <div class="caption">
                             <h3 class="text-center">Precision T3610</h3>
                             <p>強力で信頼性の高いDell T3610ワークステーションにメインストリーム（Mainstream）3Dレンダリングやその他のハイスペックの操作に、より強力な力を加えることができます。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/precision-t3610-workstation/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -628,7 +628,7 @@
                         <div class="caption">
                             <h3 class="text-center">Precision T5610</h3>
                             <p>Dell Precision T5610の安定ハイエンドのデュアルプロセッサのパフォーマンスに複雑な作業も迅速に処理します。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/precision-t5610-workstation/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -638,7 +638,7 @@
                         <div class="caption">
                             <h3 class="text-center">Precision T7610</h3>
                             <p>世界で最も強力なタワー型ワークステーションの性能を確認してください。 Dell Precision T7610は、最も要求の厳しいワークロードの要件を満たすように設計されてい。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/precision-t7610-workstation/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -650,7 +650,7 @@
                         <div class="caption">
                             <h3 class="text-center">Precision T7600</h3>
                             <p>最も強力で拡張性に優れたDell Precision™ラインナップのタワー型ワークステーションを使用して、最も複雑なアプリケーションを管理してください。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/precision-T7600/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -660,7 +660,7 @@
                         <div class="caption">
                             <h3 class="text-center">Precision T3600</h3>
                             <p>優れた性能、信頼性、および拡張性を提供するDell Precision™T3600を使用して要求の厳しいプロフェッショナル向けアプリケーションを管理してください。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/precision-T3600/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -670,7 +670,7 @@
                         <div class="caption">
                             <h3 class="text-center">Precision R7610</h3>
                             <p>ISV認定Dell Precision™R7610 forワークステーションを使用してデータを保護する同時してアプリケーションを最大に活用してください。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/precision-r7610/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -680,7 +680,7 @@
                         <div class="caption">
                             <h3 class="text-center">Precision T5600</h3>
                             <p>完全に再設計されたコンパクトなシャーシを使用して、優れた性能を提供するDell Precision™T5600を使用して要求の厳しいプロフェッショナル向けアプリケーションを管理してください。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
+                            <p><a target="_blank" href="http://www.dell.com/us/business/p/precision-t5600/pd" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -841,7 +841,6 @@
                         <div class="caption">
                             <h3 class="text-center">ioDrive2®</h3>
                             <p>PCI Expressスロットあたりフラッシュの3.0TBまで。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -851,7 +850,6 @@
                         <div class="caption">
                             <h3 class="text-center">ioDrive2® Duo</h3>
                             <p>フラッシュのx8あたりのPCI Expressスロットの2.4TBまで。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -861,7 +859,6 @@
                         <div class="caption">
                             <h3 class="text-center">ioScale™</h3>
                             <p>PCI Expressスロットあたりフラッシュの3.2TBまで。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
@@ -871,13 +868,10 @@
                         <div class="caption">
                             <h3 class="text-center">ioDrive® Full-Length</h3>
                             <p>フラッシュの10.24TBまで大規模なデータセットのパフォーマンスを最大限に高めることができます。</p>
-                            <p><a href="#" class="btn btn-primary center-block" role="button">詳細情報</a></p>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-12">
-                    <p class="text-bold text-danger">製品に関するお問い合わせはsupport@namutech.co.jpへ</p>
-                </div>
+                <p class="text-bold text-danger text-center">製品に関するお問い合わせはsupport@namutech.co.jpへ</p>
             </div>
         </div><!-- end container -->
     </section><!-- end #fusion-io -->
