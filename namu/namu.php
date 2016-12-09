@@ -220,8 +220,14 @@
                     <div class="table-responsive">
                         <table class="table">
                             <tr>
-                                <td class="col-sm-2 no-border">2014</td>
+                                <td class="col-sm-2 no-border">2016</td>
                                 <td class="no-border">
+                                   KONEX上場
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2014</td>
+                                <td>
                                     パンギョ社屋移転<br>
                                     SolidFire販売代理店契約<br>
                                     DELLネットワークSolutionプレミアムパートナー選定<br>
