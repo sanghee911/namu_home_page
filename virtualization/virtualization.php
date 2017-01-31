@@ -107,6 +107,9 @@
                     <h2>NCC (Namu Cloud Center)</h2>
                     <h3 class="text-primary">Namu Cloud Centerとは?</h3>
                     <img src="img/ncc_1_jp.png" class="img-responsive ncc-main" alt=""/>
+                    <img src="img/NCC_slide_1.PNG" class="img-responsive" alt="">
+                    <img src="img/NCC_slide_2.PNG" class="img-responsive" alt="">
+                    <img src="img/NCC_slide_3.PNG" class="img-responsive" alt="">
                 </div>
             </div>
         </div>
