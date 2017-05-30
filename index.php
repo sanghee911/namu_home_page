@@ -143,7 +143,7 @@
                         </div>      
                     </div>
                 </a>
-                <a href="/application/application.php">
+                <a href="virtualization/virtualization.php#cocktail-header">
                     <div class="color-block" id="color-block4">
                         <div class="text-wrapper">
                             <h4>Cloud Application Solutions<br><span>クラウドアプリケーション</span></h4>
@@ -185,7 +185,7 @@
             </a>
         </div>
         <div class="color-blocks">
-            <a href="virtualization/virtualization.php">
+            <a href="virtualization/virtualization.php#cocktail-header">
                 <div class="color-block" id="color-block3">
                     <div class="text-wrapper">
                         <h4>Cloud &<br>Virtualization</h4>
@@ -193,7 +193,7 @@
                     </div>
                 </div> 
             </a>
-            <a href="application/application.php">
+            <a href="virtualization/virtualization.php">
                 <div class="color-block" id="color-block4">
                     <div class="text-wrapper">
                         <h4>Application<br>Solutions</h4>
@@ -218,6 +218,17 @@
         <div class="container text-center">
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
+                    <a href="virtualization/virtualization.php#cocktail-header" class="product-box">
+                        <img src="img/product/cocktail.png" class="img-responsive" alt="">
+                        <div class="product-box-caption">
+                            <div class="product-box-caption-content">
+                                <div class="project-category">Cocktail Cloud</div>
+                                <div class="project-name">Container Based Cloud Management Platform</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
                     <a href="virtualization/virtualization.php#ncc" class="product-box">
                         <img src="img/product/ncc.png" class="img-responsive" alt="">
                         <div class="product-box-caption">
@@ -240,7 +251,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="virtualization/virtualization.php" class="product-box">
+                    <a href="virtualization/virtualization.php#desktop" class="product-box">
                         <img src="img/product/citrix_logo.png" class="img-responsive" alt="">
                         <div class="product-box-caption">
                             <div class="product-box-caption-content">

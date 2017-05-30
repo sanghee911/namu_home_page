@@ -325,14 +325,18 @@ aside {
 }
 
 .navbar-default .nav > li > a {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.navbar-default .nav > li > a.page-scroll {
+    font-size: 11px;
 }
 
 .navbar-default .nav > li > a,
 .navbar-default .nav > li > a:focus {
     text-transform: uppercase;
-    font-size: 13px;
+    font-size: 11px;
     font-weight: 700;
     color: #222;
 }
@@ -411,6 +415,10 @@ aside {
 
 /* change navbar breakpoint from 768px to 1050px*/
 @media (max-width: 1050px) {
+    .navbar-default {
+        background-color: white;
+    }
+
     .navbar-header {
         float: none;
     }
@@ -447,8 +455,8 @@ aside {
     }
 
     .navbar-nav > li > a {
-        padding-top: 10px;
-        padding-bottom: 10px;
+        padding-top: 5px;
+        padding-bottom:5px;
     }
 
     .collapse.in {
@@ -510,6 +518,24 @@ aside {
 .header-text h1 {
     max-width: 40%;
 }
+/************************* section #cocktail *************************/
+#cocktail-header {
+    background-color: #2A3B5B;
+    padding-bottom: 0;
+}
+#cocktail-2, #cocktail-3 {
+    background-color: white;
+}
+#cocktail-1 {
+    background-color: #EDEDEE;
+}
+#cocktail-4 {
+    background-color: #eaffeb;
+}
+.img-cocktail {
+    margin: 0 auto;
+}
+
 
 /************************* section #ncc *************************/
 #ncc {

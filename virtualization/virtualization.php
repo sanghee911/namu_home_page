@@ -56,6 +56,9 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active">
+                        <a class="page-scroll" href="#cocktail-header">Cocktail Cloud</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#ncc">NCC</a>
                     </li>
                     <li>
@@ -70,9 +73,9 @@
                     <li>
                         <a class="page-scroll" href="#mobile">Mobile仮想化</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#hyper-v">Hyper-V</a>
-                    </li>
+<!--                    <li>-->
+<!--                        <a class="page-scroll" href="#hyper-v">Hyper-V</a>-->
+<!--                    </li>-->
                     <li>
                         <a class="page-scroll" href="#cloud">CloudStack</a>
                     </li>
@@ -100,6 +103,52 @@
         </div>
     </header>
     <div class="cram"></div>
+    <section id="cocktail-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="img/cocktail/cocktail-header_navy.png" class="img-responsive img-cocktail" alt=""/>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="cocktail-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="text-center">Cocktail Cloud</h1>
+                    <img src="img/cocktail/cocktail-1.png" class="img-responsive img-cocktail" alt=""/>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="cocktail-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="img/cocktail/cocktail-2.png" class="img-responsive img-cocktail" alt=""/>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="cocktail-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="img/cocktail/cocktail-3.png" class="img-responsive img-cocktail" alt=""/>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="cocktail-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="img/cocktail/cocktail-4.png" class="img-responsive img-cocktail" alt=""/>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="ncc">
         <div class="container">
             <div class="row">

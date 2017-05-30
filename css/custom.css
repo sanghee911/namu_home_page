@@ -399,9 +399,8 @@ header.big .color-blocks .color-block .text-wrapper {
     transform: translatey(-50%)
 }
 
-header.big .color-blocks .color-block .text-wrapper h5 {
-    font-weight: bold;
-    margin-bottom: 10px !important;
+header.big .color-blocks .color-block .text-wrapper h4 {
+    font-size: 1em;
 }
 
 header.big .btn-scroll {
@@ -461,7 +460,7 @@ header.small .color-blocks .color-block .text-wrapper {
     transform: translatey(-50%)
 }
 
-header.small .color-blocks .color-block .text-wrapper h3 {
+header.small .color-blocks .color-block .text-wrapper h4 {
     padding-bottom: 0px;
 }
 
@@ -1238,7 +1237,7 @@ header.small .color-blocks .color-block .text-wrapper {
         font-size: 0.7em;
     }
 
-    header.big .color-blocks .color-block .text-wrapper h3 {
+    header.big .color-blocks .color-block .text-wrapper h4 {
         padding-bottom: 5px;
     }
 }
@@ -1260,14 +1259,16 @@ header.small .color-blocks .color-block .text-wrapper {
         bottom: -250px;
     }
 
-    header.big .color-blocks .color-block .text-wrapper h5 {
+    header.big .color-blocks .color-block .text-wrapper h4 {
         font-size: 14px;
-        color: #ff0000;
+        padding-bottom: 0;
+        margin-bottom: 0;
+
     }
 
-    /*header.big .color-blocks .color-block .text-wrapper h4 span {*/
-    /*display: none;*/
-    /*}*/
+    header.big .color-blocks .color-block .text-wrapper h4 span {
+    display: none;
+    }
 }
 
 /************************* media queries over 769px *************************/
