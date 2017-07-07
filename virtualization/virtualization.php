@@ -112,6 +112,15 @@
             </div>
         </div>
     </section>
+    <section id="cocktail-video">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/SZHqvLwkoJs" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="cocktail-1">
         <div class="container">
             <div class="row">
