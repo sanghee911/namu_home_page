@@ -119,17 +119,41 @@
                                     <td colspan="2">Clouding Computing / Virtualization • IT infrastructure • PLM • IT Consulting</td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="3" class="text-right">Branches</td>
-                                    <td class="text-right">Korea (Headquarters)</td>
-                                    <td>4F,A-dong PDCC,242 Pankyo-ro,Bundang-gu,Sungnam-si,Gyeonggi-do, Korea</td>
+                                    <td rowspan="9" class="text-right" style="word-break: keep-all">本社及び系列社</td>
+                                    <td class="text-right">Korea(本社)</td>
+                                    <td>255 Pangyo-ro Innovalley F-Dong 5F, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea</td>
                                 </tr>
                                 <tr>
-                                    <td class="text-right">Japan</td>
+                                    <td class="text-right">日本法人</td>
                                     <td>東京都文京区本郷1-20-3　中山ビル5F</td>
                                 </tr>
                                 <tr>
-                                    <td class="text-right">China</td>
-                                    <td>Nanjing Economic and Technological Development Zone, Heng Fei Road 8, Room 316</td>
+                                    <td class="text-right" style="word-break: keep-all">Acornsoft(開発研究所)</td>
+                                    <td>239 Yeoksam-ro Hwagang Center 4F, Gangnam-gu, Seoul, Korea</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">Aspens</td>
+                                    <td>255 Pangyo-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">アメリカ法人</td>
+                                    <td>333 W San Carlos St, San Jose, CA 95110, USA</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">中国法人</td>
+                                    <td>Room 316, 8# Heng Fei Road, Economic Technological Development Area, Nanjing City, China</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">ベトナム法人</td>
+                                    <td>Room Unit 1107, 11th Floor, Viet A Building, at No.9 Duy Tan Street, Dich Vong Hau, Cau Giay District, Ha Noi city</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">CYRAM</td>
+                                    <td>670 Daewangpangyo-ro U-Space Bld B #904, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">SC&I(Smart City & Intelligence)</td>
+                                    <td>5 Seungbang 1-gil, Gwanak-gu Soft House 3F, Seoul, Korea</td>
                                 </tr>
                                 <tr>
                                     <td class="text-right" style="word-break: keep-all">設立年月日</td>
@@ -146,26 +170,6 @@
                                 <tr>
                                     <td class="text-right">電話(営業)</td>
                                     <td colspan="2">03-6240-0073</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <table class="table table-bordered">
-                            <tbody>
-                                <tr>
-                                    <td class="text-right">会社名</td>
-                                    <td colspan="2">NAMU DS</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right">事業内容</td>
-                                    <td colspan="2">PLM、コンサルティング事業</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right">住所</td>
-                                    <td colspan="2">242 Pankyo-ro, PDCC Building A 4F, Bundang-gu, Sungnam-si,Gyeonggi-do, Korea</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right">電話</td>
-                                    <td colspan="2">82-31-8060-0241</td>
                                 </tr>
                             </tbody>
                         </table>
