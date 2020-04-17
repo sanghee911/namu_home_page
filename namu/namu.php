@@ -120,7 +120,7 @@
                                 </tr>
                                 <tr>
                                     <td rowspan="9" class="text-right" style="word-break: keep-all">本社及び系列社</td>
-                                    <td class="text-right">Korea(本社)</td>
+                                    <td class="text-right">韓国本社</td>
                                     <td>255 Pangyo-ro Innovalley F-Dong 5F, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea</td>
                                 </tr>
                                 <tr>
