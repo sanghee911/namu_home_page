@@ -125,23 +125,27 @@
                                 </tr>
                                 <tr>
                                     <td class="text-right">Japan</td>
-                                    <td>東京都千代田区九段南4-6-1•九段シルバーパレス#201</td>
+                                    <td>東京都文京区本郷1-20-3　中山ビル5F</td>
                                 </tr>
                                 <tr>
                                     <td class="text-right">China</td>
                                     <td>Nanjing Economic and Technological Development Zone, Heng Fei Road 8, Room 316</td>
                                 </tr>
                                 <tr>
-                                    <td class="text-right">設立年月日</td>
+                                    <td class="text-right" style="word-break: keep-all">設立年月日</td>
                                     <td colspan="2">2001年11月11日</td>
                                 </tr>
                                 <tr>
                                     <td class="text-right">従業員数</td>
-                                    <td colspan="2">90名 (2015年現在)</td>
+                                    <td colspan="2">202名 (2020年現在)</td>
                                 </tr>
                                 <tr>
-                                    <td class="text-right">電話</td>
-                                    <td colspan="2">03-6272-4788</td>
+                                    <td class="text-right" style="word-break: keep-all">電話(代表)</td>
+                                    <td colspan="2">03-6240-0471</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">電話(営業)</td>
+                                    <td colspan="2">03-6240-0073</td>
                                 </tr>
                             </tbody>
                         </table>
