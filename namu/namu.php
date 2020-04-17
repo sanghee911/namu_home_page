@@ -428,9 +428,9 @@
                     <br/><br/>
                     <div class="solid-fire-contact">
                         <h3 class="text-danger">製品販売及びサービス関連各種お問い合わせ</h3>
-                        <span class="text-bold text-primary">NAMU TECH JAPAN Jongsuk Noh理事</span><br/>
-                        T.03-6272-4788<br/>
-                        C.080-5173-2277
+                        <span class="text-bold text-primary">NAMU TECH JAPAN キムソンホン理事</span><br/>
+                        T.03-6240-0073<br/>
+                        C.070-4500-9114<br/><br/>
                     </div>
                 </div>
             </div><!-- row end -->
@@ -442,11 +442,14 @@
                 <div class="col-sm-8 col-sm-offset-2">
                     <h3 class="underline"><i class="fa fa-sm fa-map-marker wow bounceIn"></i> アクセス</h3><br/>
 <!--                    <img src="img/map_hd.png" alt=""/>-->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.3912103630037!2d139.73782651525903!3d35.691989480191786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c67aecfffff%3A0xacb8a5026d589dea!2sNAMU+TECH+JAPAN!5e0!3m2!1sen!2sjp!4v1455172275726" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.8854360189566!2d139.7529768155513!3d35.704436736305745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c3ed4fd848b%3A0xf44e652474009c7a!2zSmFwYW4sIOOAkjExMy0wMDMzIFTFjWt5xY0tdG8sIEJ1bmt5byBDaXR5LCBIb25nxY0sIDEtY2jFjW1l4oiSMjDiiJIzIOS4reWxseODk-ODqyA1Rg!5e0!3m2!1sen!2sus!4v1587095672815!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     <br/><br/>
-                    〒102-0074<br/>
-                    東京都千代田区九段南4-6-1　九段シルバーパレス201号<br/>
-                    東京メトロ有楽町線「市ヶ谷駅」出口A3より徒歩3分<br/>
+                    〒113-0033<br/>
+                    東京都文京区本郷1-20-3 中山ビル5F<br/><br/>
+                    水道橋駅 徒歩5分<br/>
+                    後楽園駅 徒歩7分<br/>
+                    春日駅 徒歩8分<br/>
+                    本郷三丁目駅 徒歩8分
                 </div>
             </div>
         </div>
