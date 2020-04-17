@@ -454,7 +454,7 @@
                 <div class="col-xs-6 col-sm-6 col-lg-4 col-lg-offset-2 text-center box-left">
                     <div class="vertical-middle">
                         <i class="fa fa-phone fa-3x"></i>
-                        <p>03-6272-4788</p>
+                        <p>03-6240-0471</p>
                     </div>
                     <div class="triangle"></div>
                 </div>

@@ -424,15 +424,15 @@
                 </div>
             </div><!-- row end -->
             <div class="row">
-                <div class="col-sm-8 col-sm-offset-2">
-                    <br/><br/>
-                    <div class="solid-fire-contact">
-                        <h3 class="text-danger">製品販売及びサービス関連各種お問い合わせ</h3>
-                        <span class="text-bold text-primary">NAMU TECH JAPAN キムソンホン理事</span><br/>
-                        T.03-6240-0073<br/>
-                        C.070-4500-9114<br/><br/>
-                    </div>
-                </div>
+<!--                <div class="col-sm-8 col-sm-offset-2">-->
+<!--                    <br/><br/>-->
+<!--                    <div class="solid-fire-contact">-->
+<!--                        <h3 class="text-danger">製品販売及びサービス関連各種お問い合わせ</h3>-->
+<!--                        <span class="text-bold text-primary">NAMU TECH JAPAN キムソンホン理事</span><br/>-->
+<!--                        T.03-6240-0073<br/>-->
+<!--                        C.070-4500-9114<br/><br/>-->
+<!--                    </div>-->
+<!--                </div>-->
             </div><!-- row end -->
         </div><!-- container end -->
     </section><!-- division-chart end -->
